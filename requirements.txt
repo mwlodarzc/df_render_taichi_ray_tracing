@@ -1,1 +1,1 @@
-taichi
+taichi==1.6
